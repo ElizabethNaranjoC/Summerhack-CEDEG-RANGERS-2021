@@ -5,7 +5,7 @@
 ![](Images/descripcio_proyecto.jpeg)
 
 ### Link al Tiktok:
-https://vm.tiktok.com/ZMd3JABm3/
+[ACHÚ ¡Tu guía de la salud!] (https://vm.tiktok.com/ZMd3JABm3/)
 
 ![](Images/diagrama_azure.jpeg)
 
