@@ -2,16 +2,12 @@
 
 # Nombre del Proyecto: ACHÚ ¡Tu guía de la salud!
 
-### Descripción del Proyecto a Entregar (Corta)
+![](Images/descripcio_proyecto.jpeg)
 
 ### Link al Tiktok
 
-### Diagrama de Azure
+![](Images/diagrama_azure.jpeg)
 
-### SLA Compuesto
+![](Images/SLA_TCO_downtime.jpeg)
 
-### TCO 3 años y Precio Total por mes
-
-### Tiempo sin disponibilidad a un año
-
-### Qué te pareció el evento
+![](Images/que_nos_parecio.jpg)
