@@ -4,10 +4,12 @@
 
 ![](Images/descripcio_proyecto.jpeg)
 
-### Link al Tiktok
+### Link al Tiktok:
+https://vm.tiktok.com/ZMd3JABm3/
 
 ![](Images/diagrama_azure.jpeg)
 
 ![](Images/SLA_TCO_downtime.jpeg)
 
 ![](Images/que_nos_parecio.jpg)
+
